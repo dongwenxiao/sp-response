@@ -1,0 +1,23 @@
+{
+  "name": "sp-response",
+  "version": "1.0.0",
+  "description": "server response struct for sp-base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongwenxiao/sp-response.git"
+  },
+  "keywords": [
+    "sp-base",
+    "response"
+  ],
+  "author": "cs_victor@126.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dongwenxiao/sp-response/issues"
+  },
+  "homepage": "https://github.com/dongwenxiao/sp-response#readme"
+}
