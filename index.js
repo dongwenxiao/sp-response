@@ -22,3 +22,4 @@ export const RES_FAIL_PARAM = 202 // 失败 参数错误
 export const RES_FAIL_STORAGE = 203 // 失败 存储错误
 export const RES_FAIL_EXIST = 204 // 失败 已存在
 export const RES_FAIL_FORBIDDEN = 205 // 失败 无权限
+export const RES_FAIL_OPERATE = 206 // 失败 操作错误
